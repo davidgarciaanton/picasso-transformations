@@ -17,8 +17,9 @@
 
 package com.picassotransformations.jhlabs;
 
+import com.picassotransformations.Color;
+
 import java.util.*;
-import java.awt.Color;
 
 /**
  * Some more useful math functions for image processing.

@@ -92,7 +92,7 @@ public class Curve {
 		}
 	}
 
-	protected int[] makeTable() {
+	public int[] makeTable() {
 		int numKnots = x.length;
 		float[] nx = new float[numKnots+2];
 		float[] ny = new float[numKnots+2];
